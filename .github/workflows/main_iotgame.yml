@@ -54,4 +54,4 @@ jobs:
           app-name: 'IoTGame'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4D6E7403769F400198BC254DB329A9FB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_017665162F704480841890F5A371BAAF }}
